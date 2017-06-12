@@ -19,4 +19,4 @@ Blender. Настольная книга
 публиковаться на GitHub.
 
 Содержание:
-* (about-blender.md)[Введение. О Blender, Blender Foundation и свободном ПО]
+* [about-blender.md](Введение. О Blender, Blender Foundation и свободном ПО)
