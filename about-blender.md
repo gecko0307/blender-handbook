@@ -83,3 +83,5 @@ Blender является одновременно бесплатным и сво
 SIGGRAPH 2016 в номинаци «выбор жюри».
 
 Все материалы фильмов Blender Foundation находятся в свободном доступе по лицензии Creative Commons Attribution (СС-BY).
+
+[Назад](index) ● [К оглавлению](index) ● [Далее](installation) 
