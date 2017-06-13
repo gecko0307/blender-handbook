@@ -1,5 +1,5 @@
 # Blender Handbook
-«Blender Handbook» («Blender. Настольная книга») is an open project with a goal of creating a Russian Blender e-book for beginner users. It exists in a form of a tutorial collection on every aspect of Blender workflow, grouped from from simple to complex. Everyone can participate: write a new article or improve an existing one. All materials are available under Creative Commons BY SA.
+«Blender Handbook» («Blender. Настольная книга») is an open project with a goal of creating a Russian Blender e-book for beginner users. It exists in a form of a tutorial collection on every aspect of Blender workflow, grouped from simple to complex. Everyone can participate: write a new article or improve an existing one. All materials are available under Creative Commons BY SA.
 
 The book is available online at https://gecko0307.github.io/blender-handbook
 
